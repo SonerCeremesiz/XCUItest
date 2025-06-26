@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "376894A9-9DF1-406C-836D-A8144BF6C2AB",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:xcuitest-sample.xcodeproj",
+        "identifier" : "19BC26B9273E5BA9003D4E38",
+        "name" : "xcuitest-sampleUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
